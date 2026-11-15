@@ -1,0 +1,8 @@
+name: aigrow
+kind: model-provider
+version: 0.1.0
+description: AIGROW, prepaid credit for Claude, GPT, Gemini and Grok models on one OpenAI-compatible API
+author: AIGROW
+requires_hermes: ">=0.22.0"
+requires_env:
+  - AIGROW_API_KEY
